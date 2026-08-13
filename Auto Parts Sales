@@ -1,0 +1,8 @@
+Sales Data — 56 rows with clean formatting, auto-filter, and frozen headers.
+
+Summary Dashboard — includes:
+
+KPI cards: total records, quantity sold, total sales, average unit price, best product, and top region (all formula-driven)
+Sales by Product table with totals
+Sales by Region table with totals
+Two column charts: Sales by Product and Sales by Region
